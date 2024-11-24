@@ -18,7 +18,7 @@ export default function Head() {
       <meta name="application-name" content="Portfolio | Adarsh Pandey - Full Stack Developer" />
       <meta name="apple-mobile-web-app-title" content="Portfolio | Adarsh Pandey - Full Stack Developer" />
       <link rel="icon" href="/favicon.ico" />
-      <title>Portfolio | Jigar Sable - Full Stack Developer</title>
+      <title>Portfolio | Adarsh Pandey - Full Stack Developer</title>
     </>
   )
 }
